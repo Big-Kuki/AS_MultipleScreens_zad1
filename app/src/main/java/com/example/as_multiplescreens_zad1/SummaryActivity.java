@@ -12,6 +12,7 @@ import java.util.Random;
 
 public class SummaryActivity extends AppCompatActivity {
 
+    // klucze definiuje ekran, który dane ODBIERA
     public static final String EXTRA_NAME = "com.example.dwaekrany.NAME";
     public static final String EXTRA_EMAIL = "com.example.dwaekrany.EMAIL";
     public static final String EXTRA_COURSE = "com.example.dwaekrany.COURSE";
